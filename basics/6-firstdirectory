@@ -1,0 +1,5 @@
+#!/bin/bash
+# Script: 6-firstdirectory
+# Goal: Create /tmp/my_first_directory
+
+mkdir -p /tmp/my_first_directory
